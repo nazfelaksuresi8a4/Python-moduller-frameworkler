@@ -135,6 +135,14 @@ skimage
 RadiAnt
 
 
-Tensorrlow
+Tensorflow
 
 Keras   //~~ models, layers
+
+sklearn = {
+
+sklearn.preprocessing || LabelEncoder, 
+
+sklearn.model_selction || train_test_fit
+
+}
